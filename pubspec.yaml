@@ -1,0 +1,40 @@
+name: weather_forecast
+description: Weather app to get weather information.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.5 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  provider: ^6.0.3
+  intl: ^0.17.0
+  easy_splash_screen: ^1.0.3
+  url_launcher: ^6.1.4
+  shared_preferences: ^2.0.15
+  weather_icons: ^3.0.0
+  http: ^0.13.4
+  flutter_config: ^2.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.9.3
+  flutter_lints: ^2.0.0
+
+flutter_icons:
+  ios: true
+  android: true
+  image_path: "assets/images/app_icon_square.png"
+  adaptive_icon_foreground: "assets/images/app_icon_circle.png"
+  adaptive_icon_background: "#576579"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
