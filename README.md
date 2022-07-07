@@ -1,7 +1,7 @@
 # weather_forecast
 Weather app to get weather information.
 
-https://user-images.githubusercontent.com/85165343/177808655-0f48267e-5763-4fd4-899c-969906b2fa80.mov
+https://user-images.githubusercontent.com/85165343/177813730-7a282a36-c91b-4f93-adcd-81d9405fca06.mov
 
 ![weather_view_1](https://user-images.githubusercontent.com/85165343/177810495-da1feae9-c05e-48c9-b34a-ac7d0079c59b.png)
 ![weather_view_2](https://user-images.githubusercontent.com/85165343/177810588-97c33292-0e7e-4d64-b146-181cc7dfa1cb.png)
