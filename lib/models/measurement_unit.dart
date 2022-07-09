@@ -15,7 +15,7 @@ class MeasurementUnit {
 
   void toggle() {
     name = (name == imperial) ? metric : imperial;
-    unit = (unit == imperial) ? _ms : _mph;
+    unit = (unit == _mph) ? _ms : _mph;
   }
 
   @override
